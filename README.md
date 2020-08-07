@@ -1,6 +1,6 @@
 # Multivariate prediction modelling with applications in precision medicine
-This repository contains the solution for the final exam of* Multivariate prediction modelling with applications in
-precision medicine* offered by Karolinska Institute.
+This repository contains the solution for the final exam of **Multivariate prediction modelling with applications in
+precision medicine** offered by Karolinska Institute.
 
 ## Aim
 
